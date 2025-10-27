@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange)
 ![Keras](https://img.shields.io/badge/Keras-2.13-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > Analisis sentimen berbasis **Deep Learning (BiLSTM)** terhadap ulasan pengguna **salah satu aplikasi** di **Google Play Store**.  
