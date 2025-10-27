@@ -45,3 +45,10 @@ Tiga skema pelatihan dilakukan untuk evaluasi performa model:
 | 3 | BiLSTM | Word2Vec | 70/30 | 97.66% | **93.92%** |
 
 > 🔍 Dua dari tiga skema mencapai akurasi testing di atas 92%, menandakan model memiliki stabilitas dan generalisasi yang baik.
+
+## 🧾 Hak Cipta & Penggunaan
+
+Proyek ini dibuat untuk tujuan pembelajaran dan submission akademik.  
+Sebagian kode terinspirasi dari berbagai sumber publik, dokumentasi, dan proyek pembelajaran.  
+Penggunaan ulang sebagian atau seluruh isi proyek **tidak diperkenankan untuk tujuan komersial** tanpa izin tertulis dari pemilik repositori.
+
